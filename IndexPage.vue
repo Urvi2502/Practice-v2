@@ -5,7 +5,7 @@
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
     >
-    <p>QUASAR LOGO</p>
+    <p>QUASAR LOGO IS HERE?????</p>
   </q-page>
 </template>
 
