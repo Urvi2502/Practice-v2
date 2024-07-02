@@ -6,7 +6,7 @@
       </div>
 
       <div class="text-h2" style="opacity:.4">
-        Woahh! Everything here.....
+        Woahh! Looks like evrything and everyone is here....
       </div>
 
       <q-btn
